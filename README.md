@@ -141,7 +141,7 @@ Possible improvements for future versions:
 
 ## 📸 Project
 
-*Add photos/videos of the completed hardware here.*
+<img width="1600" height="1305" alt="image" src="https://github.com/user-attachments/assets/ab2cd424-ee6f-4b07-a963-1fe1ade940cd" />
 
 ---
 
